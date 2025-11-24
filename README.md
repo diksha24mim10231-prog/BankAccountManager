@@ -31,10 +31,15 @@ java BankApp
 ## Project Structure
 
 BankAccountManager
+
 ├── src
+
 │ ├── BankAccount.java
+
 │ └── BankApp.java
+
 ├── screenshots # Screenshots of program execution
+
 └── README.md
 
 
