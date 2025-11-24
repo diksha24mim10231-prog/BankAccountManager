@@ -52,6 +52,9 @@ Screenshots showing the main menu, creating accounts, depositing, and withdrawin
 ## Author
 
 DIKSHA PANDEY
+
+24MIM10231
+
 VIT BHOPAL Student
 
 ---
